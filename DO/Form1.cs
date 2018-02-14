@@ -101,6 +101,7 @@ namespace DO
             }
 
             cancelationTokens.Add("label2", cancelationToken);
+
             DoWorkAsyncInfiniteLoop(textBox2.Text, "label2", cancelationToken);
         }
 
@@ -123,7 +124,9 @@ namespace DO
                 CancellationTokenSource cancelationToken = cancelationTokens["label2"];
 
                 cancelationToken.Cancel();
+
                 cancelationTokens.Remove("label2");
+
                 this.label2.Text = null;
             }
         }
