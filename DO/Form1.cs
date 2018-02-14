@@ -28,6 +28,7 @@ namespace DO
             }
 
             cancelationTokens.Add("label1", cancelationToken);
+
             DoWorkAsyncInfiniteLoop(textBox1.Text, "label1", cancelationToken);
         }
 

@@ -16,3 +16,4 @@ C:\WGT\Github\DirectoryOberver\DO\obj\Debug\DO.csproj.GenerateResource.Cache
 C:\WGT\Github\DirectoryOberver\DO\obj\Debug\DO.csproj.CoreCompileInputs.cache
 C:\WGT\Github\DirectoryOberver\DO\obj\Debug\DO.exe
 C:\WGT\Github\DirectoryOberver\DO\obj\Debug\DO.pdb
+C:\WGT\Github\DirectoryOberver\DO\obj\Debug\DO.csprojResolveAssemblyReference.cache
